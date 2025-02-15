@@ -1,0 +1,53 @@
+{
+  "properties": [
+    {
+      "image": "assets/images/image_2.jpg",
+      "amount": 200000,
+      "address": "Eiffel Tower, Paris, France",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "area": 1416,
+      "garage": 1,
+      "lat":  34.0522, 
+      "long": -118.2437,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "image": "assets/images/image_1.jpg",
+      "amount": 140000,
+      "address": "Statue of Liberty, New York, USA",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "area": 1416,
+      "garage": 1,
+      "lat": 32.7157, 
+      "long": -117.1611,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "image": "assets/images/image_1.jpg",
+      "amount": 140000,
+      "address": "Sydney Opera House, Sydney, Australia",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "area": 1416,
+      "garage": 1,
+      "lat": 38.5816, 
+      "long": -121.4944,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "image": "assets/images/image_1.jpg",
+      "amount": 140000,
+      "address": "Great Wall of China, Huairou District, China",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "area": 1416,
+      "garage": 1,
+      "lat": 37.8651,
+      "long": -119.5383,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    }
+  ]
+}
+
